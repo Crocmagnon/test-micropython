@@ -1,3 +1,1 @@
-pyserial>=3.3,<4.0
-docopt
-adafruit-ampy>=1.0.5,<1.1
+mpremote
